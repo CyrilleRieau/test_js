@@ -1,0 +1,31 @@
+{
+    "name": "test_js",
+    "version": "0.0.1",
+    "description": "Repo to do unitarian tests",
+    "main": "index.js",
+    "scripts": {
+        "test": "karma start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CyrilleRieau/test_js.git"
+    },
+    "keywords": [
+        "Test",
+        "Unitaire",
+        "JS"
+    ],
+    "author": "Cyrille Rieau",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/CyrilleRieau/test_js/issues"
+    },
+    "homepage": "https://github.com/CyrilleRieau/test_js#readme",
+    "devDependencies": {
+        "jasmine": "^2.8.0",
+        "karma": "^1.7.1",
+        "karma-chrome-launcher": "^2.2.0",
+        "karma-firefox-launcher": "^1.0.1",
+        "karma-jasmine": "^1.1.0"
+    }
+}
